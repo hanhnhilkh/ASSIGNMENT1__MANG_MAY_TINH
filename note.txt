@@ -1,0 +1,9 @@
+xxx can trong folder shared_files_1
+
+can print thong tin upload, nhu upload speed (lam giong phan download speed)
+
+check ten file unique trong tracker menu
+
+khi 1 peer download, tao thu muc download cho peer, cac file download tu peer ve se o trong thu muc nay. 
+Khac voi thu muc shared_files_1: thu muc chua cac file local cua peer
+Do do peer co the download file cung ten voi file local ma chua nam trong thu muc download.
